@@ -1,7 +1,6 @@
 # Applied-data-science-capstone-SpaceX-Falcon9-
 <img src="https://raw.githubusercontent.com/ADGVLOGS/IBM-DataScience-SpaceX-Capstone/main/logo/bg.png">
 ## About
-
 I predicted if the Falcon 9 first stage will land successfully. SpaceX
 advertises Falcon 9 rocket launches on its website, with a cost of 62
 million dollars; other providers cost upward of 165 million dollars each,
